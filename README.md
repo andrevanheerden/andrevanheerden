@@ -3,6 +3,7 @@
 <p align="center">
   <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
     <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=flat-square&logo=figma&logoColor=black" alt="UX Designer" />
+    <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer" />
     <img src="https://img.shields.io/badge/Starter%20Backend%20Developer-00BFFF?style=flat-square&logo=node.js&logoColor=white" alt="Starter Backend Developer" />
     <img src="https://img.shields.io/badge/React%20Developer-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Developer" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
