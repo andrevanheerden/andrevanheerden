@@ -4,7 +4,7 @@
   <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
     <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=flat-square&logo=figma&logoColor=black" alt="UX Designer" />
     <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer" />
-    <img src="https://img.shields.io/badge/Loves%20React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Developer" />
+    <img src="https://img.shields.io/badge/React%20Developer-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Developer" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
