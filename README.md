@@ -1,7 +1,7 @@
 ![banner](./assets/header.png)
 
 <p align="center">
-  <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+  <div style="display: flex; align="center"; overflow-x: auto; gap: 10px; padding: 10px;">
     <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=flat-square&logo=figma&logoColor=black" alt="UX Designer" />
     <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer" />
     <img src="https://img.shields.io/badge/Starter%20Backend%20Developer-00BFFF?style=flat-square&logo=node.js&logoColor=white" alt="Starter Backend Developer" />
