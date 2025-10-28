@@ -1,4 +1,4 @@
-![banner](./assets/banner.gif)
+![banner](./assets/header.png)
 
 
 <!--
