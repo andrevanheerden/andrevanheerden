@@ -1,4 +1,7 @@
-![banner](./assets/banner.mp4)
+<video autoplay loop muted playsinline>
+  <source src="assets/banner.mp4" type="video/mp4">
+</video>
+
 
 <!--
 **andrevanheerden/andrevanheerden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
