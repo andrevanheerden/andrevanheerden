@@ -1,6 +1,4 @@
-<video autoplay loop muted playsinline>
-  <source src="assets/banner.mp4" type="video/mp4">
-</video>
+![banner](./assets/banner.gif)
 
 
 <!--
