@@ -33,7 +33,7 @@ let hobbies = {
   reading: ["Books", "Web Novels", "Manga", "Manhwa", "Manhua"],
   favoriteGenres: ["Dark Fantasy", "Reincarnation"],
   watching: ["Anime"],
-  nature: ["Fishing (Fly & Deep Sea)", "Hunting", "Shooting"],
+  nature: ["Fishing (Fly Fishing & Deep Sea Fishing)", "Hunting", "Shooting"],
   art: ["Drawing", "Pen Sketches"],
 };
 
