@@ -181,11 +181,40 @@ Monaware is an app built using the D&D 5e SRD API, which provides comprehensive 
 
 In addition, Monaware allows users to compare the stats of two monsters or encounters side by side, making it easy to analyze strengths, weaknesses, and overall challenge levels for planning encounters. Since the D&D 5e SRD API does not include images for around 70% of monsters, the images used in Monaware were sourced from a community post on the D&D 5e SRD Discord. This ensures that users have a visually engaging experience while browsing monsters and encounters.
 
-**Technologies Used:** React, Axios,  React Testing Library, Chart.js, Bootstarp, Node.js
+#### **Technologies Used:**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 [![View Deployed Website](https://img.shields.io/badge/View%20Deployed%20Website-7E0004?style=for-the-badge&logo=globe&logoColor=white)](https://nice-field-04395f01e.1.azurestaticapps.net/)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/formative-one-Monaware)
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/formative-one-Monaware)
+
+
+<br />
+
+## [Psychedelic Pixels](https://github.com/GabyNor05/Psychpix) (Semester 1)
+
+[![Psychedelic Pixels](./assets/pixelsHeader.png)](https://github.com/GabyNor05/Psychpix)
+
+Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
+
+
+
+#### **Technologies Used:** 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
+
 
 
 <br />
