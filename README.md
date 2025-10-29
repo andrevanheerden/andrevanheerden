@@ -23,6 +23,7 @@ const NAME = "Andre van Heerden";
 const STUDENT_NUM = 241155;
 const AGE = 21;
 const BIRTHDAY = "November 6";
+const NATIONALITY = "South African";
 const STUDIES = {
   uxDesign: "Second Year UX",
   development: "Second Year DV",
