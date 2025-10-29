@@ -19,7 +19,6 @@
 ```jsx
 // About Me
 import { sushi as favFood } from "@andre/likes";
-import { creativity, curiosity, persistence } from "@core/values";
 
 const NAME = "Andre van Heerden";
 const STUDENT_NUM = 241155;
