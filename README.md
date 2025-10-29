@@ -15,8 +15,8 @@
 
 </p>
 
+# 🌀 About me 🌀
 ```jsx
-// About Me
 import { sushi as favFood } from "@andre/likes";
 
 const NAME = "Andre van Heerden";
