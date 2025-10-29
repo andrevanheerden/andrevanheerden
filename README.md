@@ -227,19 +227,20 @@ Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling
 #  My Stats 
 
 
-
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=andrevanheerden&show_icons=true&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
     alt="Andre's GitHub Stats" 
-    width="48%"
+    height="200"
+    width="43%"
   />
-
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=andrevanheerden&show_icons=true&locale=en&layout=compact&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
     alt="Top Languages" 
-    width="48%"
+    height="200"
+    width="38.5%"
   />
-
+</p>
 
 
 <br />
