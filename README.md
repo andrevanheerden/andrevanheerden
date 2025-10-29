@@ -173,3 +173,16 @@ let changelog = [
 
 
 #  2025 (Second year) Portfolio Repos 
+## [Monaware](https://github.com/andrevanheerden/formative-one-Monaware) (Semester 1)
+
+[![Monaware](./assets/monawareHeader.png)](https://github.com/andrevanheerden/formative-one-Monaware)
+
+Monaware is an app built using the D&D 5e SRD API, which provides comprehensive data on Dungeons & Dragons 5th Edition, including skills, equipment, spells, monsters, and more. Monaware focuses specifically on the monsters database, allowing users to view all stats and data for monsters or encounters. Users can access detailed information such as ability scores (Strength, Dexterity, Constitution, etc.), saving throws, skills, hit points, armor class, attack abilities, damage, and other important combat and lore-related stats.
+
+In addition, Monaware allows users to compare the stats of two monsters or encounters side by side, making it easy to analyze strengths, weaknesses, and overall challenge levels for planning encounters. Since the D&D 5e SRD API does not include images for around 70% of monsters, the images used in Monaware were sourced from a community post on the D&D 5e SRD Discord. This ensures that users have a visually engaging experience while browsing monsters and encounters.
+
+**Technologies Used:** React, Axios,  React Testing Library, Chart.js, Bootstarp, Node.js
+
+[**View Repository**](https://github.com/andrevanheerden/formative-one-Monaware)
+
+<br />
