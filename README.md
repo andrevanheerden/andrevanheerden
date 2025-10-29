@@ -70,4 +70,38 @@ let changelog = [
 
 ```
 
+# ✦ Skills ✦
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+### **UX Design**
+<span style="color: #666;">Strong</span>
+![8/10](https://geps.dev/progress/80)
+
+### **UI Design**
+<span style="color: #666;">Strong</span>
+![8/10](https://geps.dev/progress/80)
+
+### **Frontend Development**
+<span style="color: #666;">Strong</span>
+![7/10](https://geps.dev/progress/70)
+
+### **Backend Development**
+<span style="color: #666;">Improving</span>
+![6/10](https://geps.dev/progress/60)
+
+### **Database Development**
+<span style="color: #666;">Improving</span>
+![5/10](https://geps.dev/progress/50)
+
+### **Deployment**
+<span style="color: #666;">Needs a lot of improvement</span>
+![4/10](https://geps.dev/progress/40)
+
+</div>
+
+<p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">
+*Ratings are out of 10 and represent relative skill levels*
+</p>
+
 
