@@ -14,7 +14,11 @@
   <img src="https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases" />
 </p>
 
+<br />
 
+- - - -
+
+<br />
 
 # About me 
 ```jsx
@@ -70,6 +74,12 @@ let changelog = [
 ];
 
 ```
+
+<br />
+
+- - - -
+
+<br />
 
 # Skills 
 
@@ -140,6 +150,11 @@ let changelog = [
 *Rating out of 10 is on a second-year level*
 </p>
 
+<br />
+
+- - - -
+
+<br />
 
 # Tech Stack 
 
