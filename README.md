@@ -16,7 +16,7 @@
 
 </p>
 
-'''jsx 
+```jsx
 // About Me
 import { sushi as favFood } from "@andre/likes";
 import { creativity, curiosity, persistence } from "@core/values";
@@ -69,6 +69,6 @@ let changelog = [
   "Still chasing the perfect UI design ✨",
 ];
 
-'''
+```
 
 
