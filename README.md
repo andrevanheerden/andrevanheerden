@@ -70,7 +70,7 @@ let changelog = [
 
 ```
 
-# ✦ Skills ✦
+# 🌀 Skills 🌀
 
 <table align="center">
   <tr>
