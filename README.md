@@ -171,6 +171,11 @@ let changelog = [
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+<br />
+
+- - - -
+
+<br />
 
 #  2025 (Second year) Portfolio Repos 
 ## [Monaware](https://github.com/andrevanheerden/formative-one-Monaware) (Semester 1)
@@ -193,16 +198,14 @@ In addition, Monaware allows users to compare the stats of two monsters or encou
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/formative-one-Monaware)
 
+- - - -
 
-<br />
 
 ## [Psychedelic Pixels](https://github.com/GabyNor05/Psychpix) (Semester 1)
 
 [![Psychedelic Pixels](./assets/pixelsHeader.png)](https://github.com/GabyNor05/Psychpix)
 
 Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
-
-
 
 #### **Technologies Used:** 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -217,4 +220,3 @@ Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling
 
 
 
-<br />
