@@ -16,9 +16,7 @@
 
 <br />
 
-- - - -
 
-<br />
 
 # About me 
 ```jsx
@@ -75,7 +73,7 @@ let changelog = [
 
 ```
 
-<br />
+
 
 - - - -
 
@@ -150,7 +148,7 @@ let changelog = [
 *Rating out of 10 is on a second-year level*
 </p>
 
-<br />
+
 
 - - - -
 
@@ -186,7 +184,7 @@ let changelog = [
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<br />
+
 
 - - - -
 
@@ -233,7 +231,7 @@ Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
 
-<br />
+
 
 - - - -
 
