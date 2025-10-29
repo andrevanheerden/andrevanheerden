@@ -15,7 +15,7 @@
 
 </p>
 
-# 🌀 About me 🌀
+# 🖤 About me 🖤�
 ```jsx
 import { sushi as favFood } from "@andre/likes";
 
