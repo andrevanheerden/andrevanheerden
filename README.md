@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases" />
 </p>
 
+<br />
+
 
 
 # About me 
@@ -70,6 +72,12 @@ let changelog = [
 ];
 
 ```
+
+
+
+- - - -
+
+<br />
 
 # Skills 
 
@@ -141,6 +149,11 @@ let changelog = [
 </p>
 
 
+
+- - - -
+
+<br />
+
 # Tech Stack 
 
 ## Languages & Frameworks
@@ -172,6 +185,11 @@ let changelog = [
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
+
+- - - -
+
+<br />
+
 #  2025 (Second year) Portfolio Repos 
 ## [Monaware](https://github.com/andrevanheerden/formative-one-Monaware) (Semester 1)
 
@@ -181,11 +199,78 @@ Monaware is an app built using the D&D 5e SRD API, which provides comprehensive 
 
 In addition, Monaware allows users to compare the stats of two monsters or encounters side by side, making it easy to analyze strengths, weaknesses, and overall challenge levels for planning encounters. Since the D&D 5e SRD API does not include images for around 70% of monsters, the images used in Monaware were sourced from a community post on the D&D 5e SRD Discord. This ensures that users have a visually engaging experience while browsing monsters and encounters.
 
-**Technologies Used:** React, Axios,  React Testing Library, Chart.js, Bootstarp, Node.js
+#### **Technologies Used:**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 [![View Deployed Website](https://img.shields.io/badge/View%20Deployed%20Website-7E0004?style=for-the-badge&logo=globe&logoColor=white)](https://nice-field-04395f01e.1.azurestaticapps.net/)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/formative-one-Monaware)
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/formative-one-Monaware)
+
+- - - -
+
+
+## [Psychedelic Pixels](https://github.com/GabyNor05/Psychpix) (Semester 1)
+
+[![Psychedelic Pixels](./assets/pixelsHeader.png)](https://github.com/GabyNor05/Psychpix)
+
+Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling unconventional, surreal, and imaginative artwork. The website offers a curated selection of unique paintings, sculptures, and other artistic creations that fall outside the mainstream. Its primary purpose is to give art lovers, collectors, and curious minds a place to discover and purchase "weird art" works that are bold, thought-provoking, and unlike anything found in traditional galleries. By connecting eccentric artists with an audience that appreciates the bizarre and the extraordinary, Psychedelic Pixels celebrates creativity in its most unusual forms.
+
+#### **Technologies Used:** 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
+
+- - - -
+
+
+## [Yggdrasil](https://github.com/andrevanheerden/Yggdrasil) (Semester 2)
+
+[![Yggdrasil](./assets/yggdrasilHeader.png)](https://github.com/andrevanheerden/Yggdrasil)
+
+Yggdrasil is a website form Dungeon Masters and D&D players alike. This website seeks to streamlines the campaign-running experience for new and old players to run a D&D campaign. we will integrate game style inventory system as well as a full creatine system where you can create new classes, spells, weapons, items, monsters, characters and more. I created Raven Watch because I find using apps like D&D beyond tiring because you have to pay for services and the elements are not perfectly organized for running a campaign. 
+
+#### **Technologies Used:** 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/Yggdrasil)
+
+- - - -
+
+<br />
+
+#  My Stats 
+
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andrevanheerden&show_icons=true&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
+    alt="Andre's GitHub Stats" 
+    height="200"
+    width="43%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=andrevanheerden&show_icons=true&locale=en&layout=compact&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
+    alt="Top Languages" 
+    height="200"
+    width="38.5%"
+  />
+</p>
 
 
 <br />
