@@ -247,6 +247,8 @@ Yggdrasil is a website form Dungeon Masters and D&D players alike. This website 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+[![View Deployed Website](https://img.shields.io/badge/View%20Deployed%20Website-00B746?style=for-the-badge&logo=globe&logoColor=white)](https://andredv.xyz/)
+
 [![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/Yggdrasil)
 
 - - - -
