@@ -75,42 +75,52 @@ let changelog = [
 <table>
   <tr>
     <td>
-      ### UX Design
-      <span style="color: #666;">Strong 8/10</span><br />
-      <img src="https://geps.dev/progress/80" alt="UX Design 8/10" />
+      <div style="width: 300px; height: 150px;">
+        <strong>UX Design</strong><br /><br />
+        <span style="color: #666;">Strong 8/10</span><br /><br />
+        <img src="https://geps.dev/progress/80" alt="UX Design 8/10" />
+      </div>
     </td>
     <td>
-      ### UI Design
-      <span style="color: #666;">Strong 8/10</span><br />
-      <img src="https://geps.dev/progress/80" alt="UI Design 8/10" />
+      <div style="width: 300px; height: 150px;">
+        <strong>UI Design</strong><br /><br />
+        <span style="color: #666;">Strong 8/10</span><br /><br />
+        <img src="https://geps.dev/progress/80" alt="UI Design 8/10" />
+      </div>
+    </td>
+    <td>
+      <div style="width: 300px; height: 150px;">
+        <strong>Frontend Development</strong><br /><br />
+        <span style="color: #666;">Strong 7/10</span><br /><br />
+        <img src="https://geps.dev/progress/70" alt="Frontend Development 7/10" />
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      ### Frontend Development
-      <span style="color: #666;">Strong 7/10</span><br />
-      <img src="https://geps.dev/progress/70" alt="Frontend Development 7/10" />
+      <div style="width: 300px; height: 150px;">
+        <strong>Backend Development</strong><br /><br />
+        <span style="color: #666;">Improving 6/10</span><br /><br />
+        <img src="https://geps.dev/progress/60" alt="Backend Development 6/10" />
+      </div>
     </td>
     <td>
-      ### Backend Development
-      <span style="color: #666;">Improving 6/10</span><br />
-      <img src="https://geps.dev/progress/60" alt="Backend Development 6/10" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ### Database Development
-      <span style="color: #666;">Improving 5/10</span><br />
-      <img src="https://geps.dev/progress/50" alt="Database Development 5/10" />
+      <div style="width: 300px; height: 150px;">
+        <strong>Database Development</strong><br /><br />
+        <span style="color: #666;">Improving 5/10</span><br /><br />
+        <img src="https://geps.dev/progress/50" alt="Database Development 5/10" />
+      </div>
     </td>
     <td>
-      ### Deployment
-      <span style="color: #666;">Needs a lot of improvement 4/10</span><br />
-      <img src="https://geps.dev/progress/40" alt="Deployment 4/10" />
+      <div style="width: 300px; height: 150px;">
+        <strong>Deployment</strong><br /><br />
+        <span style="color: #666;">Needs a lot of improvement 4/10</span><br /><br />
+        <img src="https://geps.dev/progress/40" alt="Deployment 4/10" />
+      </div>
     </td>
   </tr>
 </table>
 
-<p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">
+<p style="font-size: 12px; color: #666; font-style: italic; margin: 10px 0;">
 *Ratings are out of 10 and relative to skill level*
 </p>
