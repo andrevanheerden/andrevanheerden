@@ -1,5 +1,6 @@
 ![banner](./assets/header.png)
 
+//tags
 <p align="center">
   <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=flat-square&logo=figma&logoColor=black" alt="UX Designer" />
   <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer" />
@@ -15,22 +16,59 @@
 
 </p>
 
+'''jsx 
+// About Me
+import { sushi as favFood } from "@andre/likes";
+import { creativity, curiosity, persistence } from "@core/values";
+
+const NAME = "Andre van Heerden";
+const STUDENT_NUM = 241155;
+const AGE = 21;
+const BIRTHDAY = "November 6";
+const STUDIES = {
+  uxDesign: "Second Year UX",
+  development: "Second Year DV",
+};
+
+let hobbies = {
+  reading: ["Books", "Web Novels", "Manga", "Manhwa", "Manhua"],
+  favoriteGenres: ["Dark Fantasy", "Reincarnation"],
+  watching: ["Anime"],
+  nature: ["Fishing (Fly & Deep Sea)", "Hunting", "Shooting"],
+  art: ["Drawing", "Pen Sketches"],
+};
+
+let dreamJob = ["Frontend Developer", "UX Designer"];
+
+export async function codingSession() {
+  let enjoyFrontend = true;
+  let designMood = "active";
+
+  while (enjoyFrontend) {
+    design("beautiful interfaces");
+    code("interactive experiences");
+    if (bugAppears()) {
+      console.log("One more tweak…");
+      fixBug();
+    }
+  }
+}
+
+function favThings() {
+  return {
+    food: favFood,
+    hobbies,
+    dreamJob,
+  };
+}
+
+let changelog = [
+  "Discovered sushi as peak cuisine 🍣",
+  "Fell deeper into dark fantasy worlds 📚",
+  "Improving frontend flow & UX every day 💻",
+  "Still chasing the perfect UI design ✨",
+];
+
+'''
 
 
-
-
-
-<!--
-**andrevanheerden/andrevanheerden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
