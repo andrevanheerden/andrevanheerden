@@ -183,6 +183,8 @@ In addition, Monaware allows users to compare the stats of two monsters or encou
 
 **Technologies Used:** React, Axios,  React Testing Library, Chart.js, Bootstarp, Node.js
 
+[**View Deployed website**](https://nice-field-04395f01e.1.azurestaticapps.net/)
+
 [**View Repository**](https://github.com/andrevanheerden/formative-one-Monaware)
 
 <br />
