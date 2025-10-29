@@ -72,31 +72,49 @@ let changelog = [
 
 # ✦ Skills ✦
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+<table>
+  <tr>
+    <td>
+      ### UX Design
+      <span style="color: #666;">Strong 8/10</span><br />
+      ![8/10](https://geps.dev/progress/80)
+    </td>
+    <td>
+      ### UI Design
+      <span style="color: #666;">Strong 8/10</span><br />
+      ![8/10](https://geps.dev/progress/80)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ### Frontend Development
+      <span style="color: #666;">Strong 7/10</span><br />
+      ![7/10](https://geps.dev/progress/70)
+    </td>
+    <td>
+      ### Backend Development
+      <span style="color: #666;">Improving 6/10</span><br />
+      ![6/10](https://geps.dev/progress/60)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ### Database Development
+      <span style="color: #666;">Improving 5/10</span><br />
+      ![5/10](https://geps.dev/progress/50)
+    </td>
+    <td>
+      ### Deployment
+      <span style="color: #666;">Needs a lot of improvement 4/10</span><br />
+      ![4/10](https://geps.dev/progress/40)
+    </td>
+  </tr>
+</table>
 
-### **UX Design**
-<span style="color: #666;">Strong</span>
-![8/10](https://geps.dev/progress/80)
+<p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">
+*Ratings are out of 10 and relative to skill level*
+</p>
 
-### **UI Design**
-<span style="color: #666;">Strong</span>
-![8/10](https://geps.dev/progress/80)
-
-### **Frontend Development**
-<span style="color: #666;">Strong</span>
-![7/10](https://geps.dev/progress/70)
-
-### **Backend Development**
-<span style="color: #666;">Improving</span>
-![6/10](https://geps.dev/progress/60)
-
-### **Database Development**
-<span style="color: #666;">Improving</span>
-![5/10](https://geps.dev/progress/50)
-
-### **Deployment**
-<span style="color: #666;">Needs a lot of improvement</span>
-![4/10](https://geps.dev/progress/40)
 
 </div>
 
