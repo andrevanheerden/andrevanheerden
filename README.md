@@ -218,5 +218,28 @@ Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabyNor05/Psychpix)
 
+<br />
+
+- - - -
+
+<br />
+
+#  My Stats 
 
 
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andrevanheerden&show_icons=true&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
+    alt="Andre's GitHub Stats" 
+    width="48%"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=andrevanheerden&show_icons=true&locale=en&layout=compact&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
+    alt="Top Languages" 
+    width="48%"
+  />
+
+
+
+<br />
