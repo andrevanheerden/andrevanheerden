@@ -1,19 +1,20 @@
 ![banner](./assets/header.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=flat-square&logo=figma&logoColor=black" alt="UX Designer" />
-  <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/Starter%20Backend%20Developer-00BFFF?style=flat-square&logo=node.js&logoColor=white" alt="Starter Backend Developer" />
-  <img src="https://img.shields.io/badge/React%20Developer-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Developer" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Loves%20UX%20%26%20UI-FF69B4?style=flat-square&logo=figma&logoColor=white" alt="Loves UX & UI Design" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Databases" />
-  <img src="https://img.shields.io/badge/NoSQL-003B57?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL Databases" />
-
+  <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=for-the-badge&logo=figma&logoColor=black" alt="UX Designer" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Starter%20Backend%20Developer-00BFFF?style=for-the-badge&logo=node.js&logoColor=white" alt="Starter Backend Developer" />
+  <img src="https://img.shields.io/badge/React%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Developer" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Loves%20UX%20%26%20UI-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="Loves UX & UI Design" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Databases" />
+  <img src="https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases" />
 </p>
+
+
 
 # About me 
 ```jsx
