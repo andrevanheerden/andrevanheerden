@@ -237,7 +237,11 @@ Psychedelic Pixels is an e-commerce platform dedicated to showcasing and selling
 
 [![Yggdrasil](./assets/yggdrasilHeader.png)](https://github.com/andrevanheerden/Yggdrasil)
 
-Yggdrasil is a website form Dungeon Masters and D&D players alike. This website seeks to streamlines the campaign-running experience for new and old players to run a D&D campaign. we will integrate game style inventory system as well as a full creatine system where you can create new classes, spells, weapons, items, monsters, characters and more. I created Raven Watch because I find using apps like D&D beyond tiring because you have to pay for services and the elements are not perfectly organized for running a campaign. 
+Yggdrasil is an all-in-one platform built for Dungeon Masters and Dungeons & Dragons players. Designed to streamline the campaign experience. It makes running and managing D&D adventures effortless for both newcomers and seasoned veterans.
+
+The platform features a fully integrated, game-style inventory and creation system — empowering you to design your own classes, spells, weapons, items, monsters, characters, and more.
+
+I created Yggdrasil out of a desire to simplify the D&D experience. Unlike existing tools such as D&D Beyond, which often hide key features behind paywalls and clutter the campaign management process, Yggdrasil focuses on accessibility, flexibility, and intuitive design — so you can spend less time organizing and more time adventuring.
 
 #### **Technologies Used:** 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
