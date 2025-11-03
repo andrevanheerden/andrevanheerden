@@ -206,8 +206,6 @@ In addition, Monaware allows users to compare the stats of two monsters or encou
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![View Deployed Website](https://img.shields.io/badge/View%20Deployed%20Website-7E0004?style=for-the-badge&logo=globe&logoColor=white)](https://nice-field-04395f01e.1.azurestaticapps.net/)
-
 [![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/formative-one-Monaware)
 
 - - - -
