@@ -275,5 +275,21 @@ I created Yggdrasil out of a desire to simplify the D&D experience. Unlike exist
   />
 </p>
 
+- - - -
 
 <br />
+
+# ✦ Get in Touch ✦
+
+<div align="center">
+
+<p>
+  <a href="mailto:241155@virtualwindow.co.za">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30"/>
+  </a><br/>
+  <b>Email</b><br/>
+  241155@virtualwindow.co.za
+</p>
+
+</div>
+
