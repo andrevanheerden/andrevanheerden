@@ -130,15 +130,15 @@ let changelog = [
     <td>
       <div style="width: 250px; height: 150px;">
         <strong>Bug Fixing</strong><br /><br />
-        <span style="color: #666;">Needs a lot of improvement 3/10</span><br /><br />
-        <img src="https://geps.dev/progress/30" alt="Bug Fixing 3/10" />
+        <span style="color: #666;">Needs improvement 5/10</span><br /><br />
+        <img src="https://geps.dev/progress/30" alt="Bug Fixing 5/10" />
       </div>
     </td>
     <td>
       <div style="width: 250px; height: 150px;">
-        <strong>Connecting Code</strong><br /><br />
-        <span style="color: #666;">Good 7/10</span><br /><br />
-        <img src="https://geps.dev/progress/70" alt="Connecting Code 7/10" />
+        <strong>Presentations</strong><br /><br />
+        <span style="color: #666;">Needs a lot of improvement 4/10</span><br /><br />
+        <img src="https://geps.dev/progress/70" alt="Connecting Code 4/10" />
       </div>
     </td>
   </tr>
