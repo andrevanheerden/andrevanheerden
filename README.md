@@ -117,7 +117,7 @@ let changelog = [
       <div style="width: 250px; height: 150px;">
         <strong>Database Development</strong><br /><br />
         <span style="color: #666;">Improving 6/10</span><br /><br />
-        <img src="https://geps.dev/progress/50" alt="Database Development 6/10" />
+        <img src="https://geps.dev/progress/60" alt="Database Development 6/10" />
       </div>
     </td>
     <td>
@@ -131,14 +131,14 @@ let changelog = [
       <div style="width: 250px; height: 150px;">
         <strong>Bug Fixing</strong><br /><br />
         <span style="color: #666;">Needs improvement 5/10</span><br /><br />
-        <img src="https://geps.dev/progress/30" alt="Bug Fixing 5/10" />
+        <img src="https://geps.dev/progress/50" alt="Bug Fixing 5/10" />
       </div>
     </td>
     <td>
       <div style="width: 250px; height: 150px;">
         <strong>Presentations</strong><br /><br />
         <span style="color: #666;">Needs a lot of improvement 4/10</span><br /><br />
-        <img src="https://geps.dev/progress/70" alt="Connecting Code 4/10" />
+        <img src="https://geps.dev/progress/40" alt="Connecting Code 4/10" />
       </div>
     </td>
   </tr>
