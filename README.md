@@ -116,8 +116,8 @@ let changelog = [
     <td>
       <div style="width: 250px; height: 150px;">
         <strong>Database Development</strong><br /><br />
-        <span style="color: #666;">Improving 5/10</span><br /><br />
-        <img src="https://geps.dev/progress/50" alt="Database Development 5/10" />
+        <span style="color: #666;">Improving 6/10</span><br /><br />
+        <img src="https://geps.dev/progress/50" alt="Database Development 6/10" />
       </div>
     </td>
     <td>
