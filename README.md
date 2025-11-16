@@ -314,7 +314,7 @@ I created Yggdrasil out of a desire to simplify the D&D experience. Unlike exist
 
 <br />
 
-# ✦ Get in Touch ✦
+# Get in Touch
 
 <div align="center">
 
