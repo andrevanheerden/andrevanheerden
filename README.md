@@ -14,8 +14,38 @@
   <img src="https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases" />
 </p>
 
+- - - -
+
 <br />
 
+
+
+<!-- Table of Contents -->
+<p align="center">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/About%20Me-FF5733?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="About Me"/>
+  </a>
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/Skills-33FF57?style=for-the-badge&logo=skills&logoColor=white" alt="Skills"/>
+  </a>
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Tech%20Stack-3357FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/>
+  </a>
+  <a href="#2025-second-year-portfolio-repos">
+    <img src="https://img.shields.io/badge/Portfolio-FF33A6?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="#my-stats">
+    <img src="https://img.shields.io/badge/My%20Stats-FF8C33?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="My Stats"/>
+  </a>
+  <a href="#✦-get-in-touch-✦">
+    <img src="https://img.shields.io/badge/Get%20in%20Touch-8C33FF?style=for-the-badge&logo=contactless&logoColor=white" alt="Get in Touch"/>
+  </a>
+</p>
+
+
+- - - -
+
+<br />
 
 
 # About me 
@@ -78,6 +108,9 @@ let changelog = [
 - - - -
 
 <br />
+
+
+
 
 # Skills 
 
