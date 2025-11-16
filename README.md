@@ -21,10 +21,12 @@
 
 
 <!-- Table of Contents -->
-<p align="center">
+
+# Table of content
+<p align="">
   <a href="#about-me">
     <img src="https://img.shields.io/badge/About%20Me-FF5733?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="About Me"/>
-  </a>
+  </a> 
   <a href="#skills">
     <img src="https://img.shields.io/badge/Skills-33FF57?style=for-the-badge&logo=skills&logoColor=white" alt="Skills"/>
   </a>
